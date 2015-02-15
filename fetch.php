@@ -3,7 +3,7 @@
 		Author: learnrpg@gmail.com
 		相本最後測試可執行正確日期：2015/2/15
 	*/
-	$link = "http://valiant.pixnet.net/album/set/14596226";
+	$link = "";
 	
 	function GetBetween($content,$start,$end)
 	{
